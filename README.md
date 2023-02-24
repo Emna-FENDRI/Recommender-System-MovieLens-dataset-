@@ -1,7 +1,7 @@
 # EPFL CS-449 Project : Personalized Recommender with k-NN:
 ### Authors 
-Emna Fendri : emna.fendri@epfl.ch  
-Douglas Bouchet
+Emna FENDRI : emna.fendri@epfl.ch  
+Douglas BOUCHET : douglas.bouchet@epfl.ch  
 ## Dataset
 * [MovieLens 100K movie ratings](https://grouplens.org/datasets/movielens/100k/)
 * [MovieLens 1M movie ratings](https://grouplens.org/datasets/movielens/1m/)
