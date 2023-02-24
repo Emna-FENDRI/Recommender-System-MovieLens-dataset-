@@ -1,4 +1,4 @@
-# EPFL CS-449 Project : Personalized Recommender with k-NN:
+# EPFL CS-449 Project: Personalized Recommender with k-NN
 ### Authors 
 Emna FENDRI : emna.fendri@epfl.ch  
 Douglas BOUCHET : douglas.bouchet@epfl.ch  
